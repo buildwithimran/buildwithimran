@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="left">I'm a passionate Full-Stack Developer and Team Lead Frontend Engineer at <a href="https://www.sittap.com/">Sittap</a>, based in Faisalabad, Pakistan. I specialize in building high-performance web and mobile solutions using Angular, Flutter, and the MEAN stack.</p>
+<p align="left">I'm a passionate Full-Stack Developer and Team Lead Frontend Engineer at <a href="https://www.sittap.com/">Sittap</a>, Paris based startup. I specialize in building high-performance web and mobile solutions using Angular, Flutter, and the MEAN stack.</p>
 
 ### 
 
@@ -11,9 +11,8 @@
 ### 
 
 <p align="left">
-✨ Crafting seamless user experiences for 5 years<br>
-📚 Currently exploring advanced Flutter and Firebase integrations<br>
-🎯 Goals: Innovate in SaaS solutions for the food service and e-commerce industries<br>
+🌟 5+ years of experience creating user-friendly websites and apps<br>
+🎯 My goal: Build helpful tools for businesses like food services and online stores<br>
 </p>
 
 ### 
