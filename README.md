@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Imran!  
 
-🚀 **Senior Full-Stack Developer | 5+ Years of Experience**  
+🚀 **Senior Full-Stack Developer | 5 Years of Experience**  
 
 I specialize in building scalable, user-centric web and mobile applications using **Angular**, **Flutter**, and **Node.js**. I have a proven track record of leading projects, delivering high-quality solutions, and collaborating with cross-functional teams to meet business objectives.  
 
@@ -8,7 +8,7 @@ I specialize in building scalable, user-centric web and mobile applications usin
 
 ## 🌟 About Me  
 
-- 🌐 **Experience**: 5+ years in Full-Stack Development  
+- 🌐 **Experience**: 5 years in Full-Stack Development  
 - 🎯 **Goal**: Build innovative tools for businesses, such as food services and e-commerce platforms  
 - 🏆 **Notable Projects**: Real-time Chat App, Multi-Vendor Marketplace, Gravaldi  
 
@@ -75,5 +75,5 @@ A full-stack web solution actively serving users, built with:
 
 - 🌐 **Website**: [buildwithimran.tech](http://buildwithimran.tech/)  
 - 💼 **LinkedIn**: [buildwithimran](https://www.linkedin.com/in/buildwithimran)  
-- 📧 **Email**: imranarshad329@gmail.com  
+- 📧 **Email**: buildwithimran@gmail.com 
 - 📱 **WhatsApp**: [+92-306-8440929](https://wa.me/923068440929)  
