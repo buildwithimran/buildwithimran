@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋, I'm M Imran Arshad!</h1>
+<h1 align="left">Hi 👋, I'm Muhammad Imran!</h1>
 
 ### 
 
-<p align="left">I'm a passionate Full-Stack Developer and Team Lead Frontend Engineer at <a href="https://www.sittap.com/">Sittap</a>, Paris based startup. I specialize in building high-performance web and mobile solutions using Angular, Flutter, and the MEAN stack.</p>
+<p align="left">Experienced Senior Developer with 5 years of experience building scalable and user-centric web and mobile applications. Expertise in Angular, Flutter and Node.js, with a strong foundation in front-end and back-end technologies. Proven ability to lead projects, collaborate effectively within cross-functional teams, and deliver high-quality solutions that meet business objectives.</p>
 
 ### 
 
