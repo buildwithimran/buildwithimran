@@ -1,51 +1,79 @@
-<h1 align="left">Hi 👋, I'm Muhammad Imran!</h1>
+# 👋 Hi, I'm Muhammad Imran!  
 
-### 
+🚀 **Senior Full-Stack Developer | 5+ Years of Experience**  
 
-<p align="left">Experienced Senior Developer with 5 years of experience building scalable and user-centric web and mobile applications. Expertise in Angular, Flutter and Node.js, with a strong foundation in front-end and back-end technologies. Proven ability to lead projects, collaborate effectively within cross-functional teams, and deliver high-quality solutions that meet business objectives.</p>
+I specialize in building scalable, user-centric web and mobile applications using **Angular**, **Flutter**, and **Node.js**. I have a proven track record of leading projects, delivering high-quality solutions, and collaborating with cross-functional teams to meet business objectives.  
 
-### 
+---
 
-<h2 align="left">About Me</h2>
+## 🌟 About Me  
 
-### 
+- 🌐 **Experience**: 5+ years in Full-Stack Development  
+- 🎯 **Goal**: Build innovative tools for businesses, such as food services and e-commerce platforms  
+- 🏆 **Notable Projects**: Real-time Chat App, Multi-Vendor Marketplace, Gravaldi  
 
-<p align="left">
-🌟 5+ years of experience creating user-friendly websites and apps<br>
-🎯 My goal: Build helpful tools for businesses like food services and online stores<br>
-</p>
+---
 
-### 
+## 🛠️ Skills  
 
-<h2 align="left">I code with</h2>
+### **Frontend Development**  
+- Angular (TypeScript, SCSS, Tailwind CSS, Bootstrap)  
+- Flutter (Mobile-first designs)  
+- Ionic  
+- React  
 
-### 
+### **Backend Development**  
+- Node.js (Express, RESTful APIs, Socket.io)  
+- MongoDB  
+- Firebase  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-</div>
+### **Additional Expertise**  
+- CI/CD: Bitbucket, Jira  
+- Multilingual Support: Angular i18n  
+- Real-Time Communication: WebSockets  
 
-### 
+---
 
-<h2 align="left">Let's Connect</h2>
+## 📂 Selected Projects  
 
-### 
+### **💬 Chat App**  
+A real-time messaging application built with:  
+- **Flutter** for the front end  
+- **Node.js** and **MongoDB** for the back end  
+- **Firebase** for real-time chat functionality  
 
-- 🌐 Website: [buildwithimran.tech](http://buildwithimran.tech/)  
-- 💼 LinkedIn: [buildwithimran](https://www.linkedin.com/in/buildwithimran)  
-- 📧 Email: imranarshad329@gmail.com  
-- 📱 WhatsApp: [+92-306-8440929](https://wa.me/923068440929)
+### **🛒 Online Buy & Sell Marketplace**  
+A multi-vendor platform enabling advanced search filters and categorized listings:  
+- Developed with **Flutter**, **Node.js**, and **MongoDB**  
+
+### **🌐 Gravaldi**  
+A full-stack web solution actively serving users, built with:  
+- **Angular**, **Node.js**, and **MongoDB**  
+
+---
+
+## 📈 Experience  
+
+### **Frontend Engineer**  
+**Sittap** | Paris (Mar 2022 - Present)  
+- Designed user-friendly experiences for multi-vendor restaurant apps.  
+- Implemented multilingual support for 8+ languages using Angular i18n.  
+- Built scalable UI architectures with **Angular**, **Flutter**, and **Ionic**.  
+- Delivered advanced e-commerce features like product customization, stock management, and order tracking.  
+
+---
+
+## 📚 Certifications  
+
+- Angular (HackerRank, TestDome)  
+- RESTful APIs (JavaScript)  
+- Bootstrap  
+
+---
+
+## 🌐 Connect with Me  
+
+- 🌐 **Website**: [buildwithimran.tech](http://buildwithimran.tech/)  
+- 💼 **LinkedIn**: [buildwithimran](https://www.linkedin.com/in/buildwithimran)  
+- 📧 **Email**: imranarshad329@gmail.com  
+- 📱 **WhatsApp**: [+92-306-8440929](https://wa.me/923068440929)  
